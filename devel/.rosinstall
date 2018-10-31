@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /tmp/guest-2vmhwc/catkin_ws/devel/setup.sh
